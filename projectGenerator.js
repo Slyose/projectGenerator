@@ -144,4 +144,6 @@ function createProject() {
   });
 }
 
+createProject();
+
 module.exports = { createProject };
